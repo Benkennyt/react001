@@ -1397,11 +1397,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Documents\\Tayo's projects\\React_project\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Documents\\Tayo's projects\\react001\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\ASUS\\Documents\\Tayo's projects\\React_project\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Documents\\Tayo's projects\\react001\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Documents\\Tayo's projects\\React_project\\Application\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Documents\\Tayo's projects\\react001\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1416,11 +1416,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\ASUS\\Documents\\Tayo's projects\\React_project\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\ASUS\\Documents\\Tayo's projects\\React_project\\Domain\\Domain.csproj"
+            "C:\\Users\\ASUS\\Documents\\Tayo's projects\\react001\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\Documents\\Tayo's projects\\react001\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\ASUS\\Documents\\Tayo's projects\\React_project\\Persistence\\Persistence.csproj": {
-              "projectPath": "C:\\Users\\ASUS\\Documents\\Tayo's projects\\React_project\\Persistence\\Persistence.csproj"
+            "C:\\Users\\ASUS\\Documents\\Tayo's projects\\react001\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\Documents\\Tayo's projects\\react001\\Persistence\\Persistence.csproj"
             }
           }
         }
