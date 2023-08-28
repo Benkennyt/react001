@@ -232,3 +232,6 @@ C:\Users\ASUS\Documents\Tayo's projects\react001\API\obj\Debug\net7.0\refint\API
 C:\Users\ASUS\Documents\Tayo's projects\react001\API\obj\Debug\net7.0\API.pdb
 C:\Users\ASUS\Documents\Tayo's projects\react001\API\obj\Debug\net7.0\API.genruntimeconfig.cache
 C:\Users\ASUS\Documents\Tayo's projects\react001\API\obj\Debug\net7.0\ref\API.dll
+C:\Users\ASUS\Documents\Tayo's projects\react001\API\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\ASUS\Documents\Tayo's projects\react001\API\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\ASUS\Documents\Tayo's projects\react001\API\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll

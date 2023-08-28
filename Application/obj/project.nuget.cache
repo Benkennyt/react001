@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "bDw72GnfnVnsz8oD+TIBJiZ9Y08kHQV+8Lt80rkW1yTcyFU4LO5UMO/tF+O1KciCk1pZGjbMuk92fFJ0YyqPQA==",
+  "dgSpecHash": "pIxjPIoNhsWd7MAL/w7LsN1mgSFMD5ivUZ8PA2amyQngNwDSIH500I142OcWBnFVCfQEBTPfOEM4vzgU1MSEPg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ASUS\\Documents\\Tayo's projects\\react001\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\fluentvalidation\\11.2.1\\fluentvalidation.11.2.1.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.1\\fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
